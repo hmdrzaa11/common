@@ -14,3 +14,4 @@ export * from "./events/listeners/listener";
 export * from "./events/publishers/publisher";
 export * from "./events/subjects";
 export * from "./events/ticket-updated-event";
+export * from "./events/types/order-status";
